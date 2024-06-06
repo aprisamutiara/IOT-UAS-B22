@@ -10,3 +10,5 @@
 ## TAMPILAN WOKWI
 ![image](https://github.com/aprisamutiara/IOT-UAS-B22/assets/123526722/d5c9990d-68e9-4030-af17-e23e3a66c6f8)
 
+## LINK WOKWI:
+https://wokwi.com/projects/399617922930977793
